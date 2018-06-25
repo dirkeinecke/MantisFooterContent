@@ -3,6 +3,6 @@
 A [MantisBT](http://www.mantisbt.org/) plugin to add text to the footer section.
 
 # Setup
-* The `master` branch requires Mantis 2.0.x.
+* Requires Mantis 2.0.x.
 * Extract this repo to your *Mantis folder/plugins/MantisFooterContent*.
 * Enjoy!
